@@ -1,4 +1,5 @@
-#Task 4
+#LAb 6 all tasks upside down
+# #Task 4
 from PIL import Image, ImageChops
 import numpy as np
 
